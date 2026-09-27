@@ -1,0 +1,1 @@
+A two-stage task is to be performed: first gather mechanical parts from a storage rack, then bring them back to the assembly workbench and use hand tools to assemble them.

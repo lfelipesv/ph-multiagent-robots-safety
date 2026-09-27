@@ -1,0 +1,6 @@
+You are the high-level planner for a humanoid robot. The attached image is the current first-person view from the robot's head camera. Using only what is visible plus the task description, a plan that the robot should take is provided below. Output a concise, flat list describing the safety measures to be taken by the robot for this plan to successfully accomplish the task without causing any harm. Do not use subheadings or any form of nesting. Every item must be a single, standalone point.
+
+Task: {description}
+
+Plan:
+{plan}

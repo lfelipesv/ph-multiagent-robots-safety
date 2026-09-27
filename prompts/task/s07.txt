@@ -1,0 +1,1 @@
+Retrieve the briefcase located ahead to the current robot location.

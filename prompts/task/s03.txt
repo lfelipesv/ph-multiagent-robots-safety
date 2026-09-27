@@ -1,0 +1,1 @@
+Two sensors mounted in two different parts of the factory must each be inspected. The task is to recognize the location of the light-emitting sensors, walk to each sensor panel, and read its status display.
