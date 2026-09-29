@@ -35,5 +35,3 @@ Notes:
 
 Run the analysis/analysis.ipynb notebook.
 
-Requirements:
-
