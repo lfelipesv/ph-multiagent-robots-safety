@@ -31,11 +31,9 @@ Notes:
     | `--prompt_path` | Path of the prompt templates and task descriptions | prompts |
     | `--seed` | Generative seed for reproducibility | 42 |
 
-## Collaboration Evaluation
-TBA
+## Analysis
 
-## Plan Quality Evaluation
-TBA
+Run the analysis/analysis.ipynb notebook.
 
-## Safety Measure Evaluation
-TBA
+Requirements:
+
